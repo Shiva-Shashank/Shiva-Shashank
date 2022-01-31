@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<img width="100%" height = "200px" src="https://wallpapercave.com/dwp2x/wp2234615.png" alt="cover" />
+<img width="100%" height = "400px" src="https://wallpapercave.com/dwp2x/wp2234615.png" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
