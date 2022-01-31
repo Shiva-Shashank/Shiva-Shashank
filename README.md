@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Shiva-Shashank/Shiva-Shashank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <div align="center">
-<img width="100%" height = "400px" src="https://wallpapercave.com/dwp2x/wp2234615.png" alt="cover" />
+<img width="100%" height = "350px" src="https://wallpapercave.com/dwp2x/wp2234615.png" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
